@@ -269,7 +269,7 @@ export default function Home() {
                         <p className="text-orange-500 text-md font-thin  ">JOBBMÖJLIGHETER</p>
                         <h2 className=" ">Karriärmöjligheter</h2>
                         <p className="text-center lg:text-start ">
-                            Upptäck karriäröppningar i avsnittet "Tillgängliga jobb". Hittar du ingen match? Dela dina uppgifter genom "Öppen ansökan" för framtida övervägande.
+                            Upptäck karriäröppningar i avsnittet &quot;Tillgängliga jobb&quot;. Hittar du ingen match? Dela dina uppgifter genom &quot;Öppen ansökan&quot; för framtida övervägande.
                         </p>
                         <div className="flex mt-2 flex-col gap-3 items-center md:items-start">
                             <Link
